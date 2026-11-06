@@ -23,31 +23,42 @@ I created a simple personal portfolio website for Assignment 6. I used HTML to c
 
 
 ### Task 0 - Console
-[Add screenshot]
+<img width="706" height="245" alt="image" src="https://github.com/user-attachments/assets/c898822d-965d-489c-b9aa-73efb04f39d2" />
+
 
 ### Task 1 - Selectors and themes
-[Add screenshot]
+<img width="1917" height="492" alt="image" src="https://github.com/user-attachments/assets/ef3fc5b3-f4bf-4b08-a0d5-d710fe6a8f77" />
+
 
 ### Task 2 - Visibility methods
-[Add screenshot]
+<img width="1917" height="490" alt="image" src="https://github.com/user-attachments/assets/ebb81ef1-6234-410e-871f-2c74702565ee" />
+
 
 ### Task 3 - Fade effects
-[Add screenshot]
+<img width="982" height="295" alt="image" src="https://github.com/user-attachments/assets/ddb3b29d-233e-4ab7-a6d0-9e92da492a49" />
+
 
 ### Task 4 - Slide effects
-[Add screenshot]
+<img width="981" height="215" alt="image" src="https://github.com/user-attachments/assets/81da6b3a-673d-403f-8fc8-37d518633482" />
+
 
 ### Task 5 - Adding and removing skills
-[Add screenshot]
+<img width="932" height="351" alt="image" src="https://github.com/user-attachments/assets/175e7569-5eb6-4acf-84eb-63bb5ccd5b80" />
+
+
 
 ### Task 6 - Changing a link
-[Add screenshot]
+<img width="532" height="210" alt="image" src="https://github.com/user-attachments/assets/ed016041-a630-4779-bab2-4f0fc6e0d70b" />
+
+
 
 ### Task 7 - Live form
-[Add screenshot]
+<img width="980" height="277" alt="image" src="https://github.com/user-attachments/assets/49d2eae7-8574-4a18-9d45-03c21cbb7cd4" />
+
 
 ### Task 8 - Skill animation
-[Add screenshot]
+<img width="980" height="437" alt="image" src="https://github.com/user-attachments/assets/6084b096-b7c5-444a-9a40-10082e68847c" />
+
 
 ## How I worked
 
