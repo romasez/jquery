@@ -31,15 +31,18 @@ I created a simple personal portfolio website for Assignment 6. I used HTML to c
 
 
 ### Task 2 - Visibility methods
-<img width="1917" height="490" alt="image" src="https://github.com/user-attachments/assets/ebb81ef1-6234-410e-871f-2c74702565ee" />
+<img width="960" height="305" alt="image" src="https://github.com/user-attachments/assets/8bbb9ee8-a32d-46a2-9467-bad747ad5987" />
+
 
 
 ### Task 3 - Fade effects
-<img width="982" height="295" alt="image" src="https://github.com/user-attachments/assets/ddb3b29d-233e-4ab7-a6d0-9e92da492a49" />
+<img width="792" height="317" alt="image" src="https://github.com/user-attachments/assets/ce0388ab-6a7a-4f29-afed-aaf70c130d38" />
+
 
 
 ### Task 4 - Slide effects
-<img width="981" height="215" alt="image" src="https://github.com/user-attachments/assets/81da6b3a-673d-403f-8fc8-37d518633482" />
+<img width="982" height="523" alt="image" src="https://github.com/user-attachments/assets/300af192-7387-4e0e-8372-9975a976f32b" />
+
 
 
 ### Task 5 - Adding and removing skills
